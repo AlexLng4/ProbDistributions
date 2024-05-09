@@ -1,6 +1,6 @@
 # ProbDistributions
 
-Bernoulli Distribution
+Bernoulli Distributio 
 Binomial Distribution
 Geometric Distribution
 Poisson Distribution
