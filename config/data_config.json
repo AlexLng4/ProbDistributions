@@ -1,0 +1,7 @@
+{
+    "Random Points": {
+        "number_of_samples": 4,
+        "number_of_features": 5,
+        "points_distribution": "Random"   
+    }
+}
